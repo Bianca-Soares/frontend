@@ -1,3 +1,4 @@
+web: npm install
 web: npm install vue
 web: yarn install
 web: npm install vue-cli
